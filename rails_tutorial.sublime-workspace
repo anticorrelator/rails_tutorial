@@ -1,0 +1,669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"another",
+				"another_way_to_write_class_methods"
+			],
+			[
+				"TrianGLE",
+				"TriangleError"
+			],
+			[
+				"curen",
+				"current_file"
+			],
+			[
+				"amount_",
+				"amount_of_cheese"
+			],
+			[
+				"cheese_and",
+				"cheese_and_crackers"
+			],
+			[
+				"amount",
+				"amount_of_crackers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"swap",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"quote",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"packarem",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/sample_app"
+	],
+	"file_history":
+	[
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/sample_app/.gitignore",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/demo_app/app/controllers/microposts_controller.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/demo_app/app/models/micropost.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/demo_app/Gemfile",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/first_app/Gemfile",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/first_app/config/initializers/secret_token.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/first_app/db/seeds.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/first_app/config/initializers/inflections.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/first_app/public/index.html",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/first_app/doc/README_FOR_APP",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/demo_app/app/models/.gitkeep",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/demo_app/app/models/user.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/demo_app/.gitignore",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/rails_projects/demo_app/config/initializers/mime_types.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_to_str.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_scoring_project.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_proxy_object_project.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_triangle_project_2.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_iteration.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_hashes.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_arrays.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_scope.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/copied.txt",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_class_methods.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_message_passing.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_dice_project.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_open_classes.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_objects.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_classes.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_control_statements.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/path_to_enlightenment.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/neo.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_methods.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_modules.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_inheritance.rb",
+		"/Users/dustin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_symbols.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_constants.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/GREED_RULES.txt",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/example_file.txt",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_regular_expressions.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_sandwich_code.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/triangle.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_blocks.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_triangle_project.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_exceptions.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_strings.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_array_assignment.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_extra_credit.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex01.rb",
+		"/Users/dustin/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_true_and_false.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_keyword_arguments.rb",
+		"/Users/dustin/Desktop/sdaps-master/debian/control",
+		"/Users/dustin/Desktop/sdaps-master/COPYING",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/koans.watchr",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/Rakefile",
+		"/usr/local/Cellar/ruby/2.1.2_2/bin/ruby",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_asserts.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/about_nil.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex20.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/koans/.path_progress",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex21.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex32.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/dotfiles/link_all_dotfiles.sh",
+		"/Users/dustin/Dropbox (Harris Lab)/Application Support/dotfiles/link_all_dotfiles.sh",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex19.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex18.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex17.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex15.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex14.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex13.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex11.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex16.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex15_sample.txt",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex12.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex05.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex06.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex07.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex08.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex09.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex10.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex03.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex04.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_thw/ex02.rb",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ex04.rb",
+		"/Users/dustin/.config/fish/config.fish",
+		"/Users/dustin/.bash_aliases",
+		"/Users/dustin/.bash_profile",
+		"/Users/dustin/Dropbox (Harris Lab)/Application Support/dotfiles/fish_config/fish/config.fish",
+		"/Users/dustin/Dropbox (Harris Lab)/Code/Ruby/tutorials/ruby_the_hard_way/ex01.rb",
+		"/Users/dustin/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/dustin/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/etc/paths",
+		"/Users/dustin/Desktop/link_all_dotfiles.sh",
+		"/etc/shells",
+		"/private/etc/shells"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end",
+			"true",
+			"__",
+			"___",
+			"__",
+			"called_methods",
+			"__",
+			"___",
+			"__",
+			"___",
+			"__",
+			"nil",
+			"__",
+			"___",
+			"__",
+			"Dog",
+			"__",
+			"false",
+			"__",
+			"___",
+			"in_module",
+			"__",
+			"___",
+			"__",
+			"yip",
+			"___",
+			"__",
+			"size",
+			"n_times",
+			"values",
+			"__",
+			",",
+			"Fido",
+			"__",
+			"Dog7",
+			"___",
+			"__",
+			"___",
+			"__",
+			"dice",
+			"__",
+			"nil",
+			"__",
+			"___",
+			"__",
+			"select",
+			"pick",
+			"__",
+			", ",
+			"__",
+			"true",
+			"__",
+			"___",
+			"__",
+			"___",
+			"__",
+			"___",
+			"__",
+			"___",
+			"__",
+			"variable_1",
+			"__",
+			"bccc",
+			"__",
+			"true",
+			"__",
+			"___",
+			"__",
+			"true",
+			"__",
+			"97",
+			"__",
+			"5",
+			"__",
+			"string",
+			"__",
+			"dos",
+			"__",
+			"assert_equal",
+			"asser",
+			"has",
+			"__",
+			"___",
+			"__",
+			"Cher",
+			"__",
+			"John",
+			"__",
+			"cass",
+			"__",
+			"nil",
+			"true",
+			"__",
+			"method",
+			"Class",
+			"hellothere",
+			"current_line",
+			", ",
+			"= current_line + 1",
+			"to_file",
+			"fourth",
+			"print",
+			"my_",
+			"subl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "rails_tutorial.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"micro",
+				"app/models/micropost.rb"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"gitit",
+				"config/initializers/mime_types.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"about_to_",
+				"koans/about_to_str.rb"
+			],
+			[
+				"scor",
+				"koans/about_scoring_project.rb"
+			],
+			[
+				"dice",
+				"koans/about_dice_project.rb"
+			],
+			[
+				"proxy",
+				"koans/about_proxy_object_project.rb"
+			],
+			[
+				"messge",
+				"koans/about_message_passing.rb"
+			],
+			[
+				"classme",
+				"koans/about_class_methods.rb"
+			],
+			[
+				"scope",
+				"koans/about_scope.rb"
+			],
+			[
+				"modu",
+				"koans/about_modules.rb"
+			],
+			[
+				"inher",
+				"koans/about_inheritance.rb"
+			],
+			[
+				"open",
+				"koans/about_open_classes.rb"
+			],
+			[
+				"classes",
+				"koans/about_classes.rb"
+			],
+			[
+				"array",
+				"koans/about_arrays.rb"
+			],
+			[
+				"scoring",
+				"koans/about_scoring_project.rb"
+			],
+			[
+				"regular",
+				"koans/about_regular_expressions.rb"
+			],
+			[
+				"exampl",
+				"koans/example_file.txt"
+			],
+			[
+				"aboutsand",
+				"koans/about_sandwich_code.rb"
+			],
+			[
+				"blocks",
+				"koans/about_blocks.rb"
+			],
+			[
+				"example",
+				"koans/example_file.txt"
+			],
+			[
+				"about_iter",
+				"koans/about_iteration.rb"
+			],
+			[
+				"symbo",
+				"koans/about_symbols.rb"
+			],
+			[
+				"about_trian",
+				"koans/about_triangle_project_2.rb"
+			],
+			[
+				"exce",
+				"koans/about_exceptions.rb"
+			],
+			[
+				"trian",
+				"koans/triangle.rb"
+			],
+			[
+				"true",
+				"koans/about_true_and_false.rb"
+			],
+			[
+				"control",
+				"tutorials/koans/about_control_statements.rb"
+			],
+			[
+				"constan",
+				"tutorials/koans/about_constants.rb"
+			],
+			[
+				"key",
+				"tutorials/koans/about_keyword_arguments.rb"
+			],
+			[
+				"method",
+				"koans/about_methods.rb"
+			],
+			[
+				"aboutsymbo",
+				"koans/about_symbols.rb"
+			],
+			[
+				"aboutstring",
+				"koans/about_strings.rb"
+			],
+			[
+				"abouthas",
+				"koans/about_hashes.rb"
+			],
+			[
+				"12",
+				"ruby_thw/ex12.rb"
+			],
+			[
+				"",
+				"ruby_thw/ex01.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
