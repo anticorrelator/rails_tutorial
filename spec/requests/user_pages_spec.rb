@@ -36,5 +36,21 @@ describe "User pages" do
         expect { click_button submit }.to change(User, :count).by(1)
       end
     end
+
+    describe "with invalid information" do
+      before do
+        fill_in "Name",         with: "Example User"
+        fill_in "Email",        with: "not_an_email"
+        fill_in "Password",     with: "foobar"
+        fill_in "Confirmation", with: "mismatching_password"
+      end
+
+      describe "after submission" do
+        before { click_button submit }
+
+        it { should have_selector('title', text: 'Sign up') }
+        it { should have_content('error') }
+      end
+    end
   end
 end
